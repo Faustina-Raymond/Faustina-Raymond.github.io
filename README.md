@@ -369,10 +369,7 @@ transform: scale(1.05);
 }
 
 .event-item img {
-width: 100%;
-height: 350px;
-object-fit: cover;
-display: block;
+e1ea0337d40b402dfa753be1038920ca1064866a
 }
 
 .event-overlay {
